@@ -1,0 +1,8 @@
+version: '3.6'
+services:
+  redis-cell:
+    image: hsz1273327/redis-cell:latest
+    ports:
+      - "6379:6379"
+      
+    
