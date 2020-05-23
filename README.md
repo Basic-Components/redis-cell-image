@@ -4,7 +4,7 @@ a [redis-cell](https://github.com/brandur/redis-cell) image for docker.
 
 ## version
 
-+ 0.2.4
++ 0.2.5
 
 ## usage
 
